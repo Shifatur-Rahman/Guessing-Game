@@ -1,0 +1,11 @@
+.loading {
+    display: none;
+}
+
+.loading img {
+    height: 100px;
+}
+
+body {
+    margin: 50px;
+}
